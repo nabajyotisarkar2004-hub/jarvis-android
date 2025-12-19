@@ -1,34 +1,12 @@
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #0f172a;
+  background: black;
   color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
-.app {
   text-align: center;
-  background: #020617;
-  padding: 20px;
-  border-radius: 15px;
-  width: 90%;
-  max-width: 400px;
-  box-shadow: 0 0 20px #38bdf8;
+  font-family: Arial;
 }
 
 button {
-  padding: 12px 20px;
-  font-size: 16px;
-  background: #38bdf8;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-#output {
-  margin-top: 15px;
-  font-size: 16px;
+  padding: 15px;
+  font-size: 18px;
+  margin-top: 20px;
 }
